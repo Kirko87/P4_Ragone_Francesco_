@@ -676,8 +676,28 @@ a {
     margin: auto auto auto auto;
 }
 
+.p-title{
+    font-size: 22px;
+    margin: 0 60px 20px;
+} 
+
 p {
     font-size: 11px;
+}
+
+q {
+    font-size: 24px;
+    font-style: italic;
+    color: #000000;
+}
+
+.cit-explanation{
+ font-size: 14px;
+}
+
+.title2{
+    font-size: 23px;
+    margin: 0 25%;
 }
 
 .tight-width-whitespace {
