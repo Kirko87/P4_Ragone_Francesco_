@@ -838,11 +838,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere-compr.jpg");
+    background-image: url("img/la-chouette-agence-banniere-compr-webp.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation-j-compr.jpg");
+    background-image: url("img/image-de-presentation-j-compr-webp.webp");
 }
 
 @media (max-width: 1024px) {
